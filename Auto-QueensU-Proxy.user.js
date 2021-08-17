@@ -1,14 +1,15 @@
 // ==UserScript==
 // @name         Auto QueensU Proxy
 // @namespace    https://richardyan.site/
-// @version      0.1
-// @license      cc-by-4.0
+// @version      0.2
+// @license      GPL-3.0+
 // @description  Automatically redirect to Queen's University Proxy for a list of selected websites for my personal use.
 
 // @author       Richard Yan
 // @homepageURL  https://github.com/RichardYan314/Auto-QueensU-Proxy#readme
 // @supportURL   https://github.com/RichardYan314/Auto-QueensU-Proxy/issues
 // @downloadURL  https://raw.githubusercontent.com/RichardYan314/Auto-QueensU-Proxy/master/Auto-QueensU-Proxy.user.js
+// @updateURL    https://raw.githubusercontent.com/RichardYan314/Auto-QueensU-Proxy/master/Auto-QueensU-Proxy.user.js
 
 // - a list of avaliable websites that are accessable from the Web Proxy
 // - https://login.proxy.queensu.ca/public/menu-queens.html
